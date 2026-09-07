@@ -1,82 +1,80 @@
-# Hi, I'm CH 👋
+# Hi, I'm Chun hau 👋
 
-### Python Automation | AI | Data | Robotics
+### Python | C++ | ROS 2 | Linux | OpenCV | Robotics
 
-I build practical software and automation tools that solve real-world engineering and data problems.
-
-Currently focused on **Python automation, industrial systems, AI, and robotics**.
+I'm a Computer Science master's student exploring robotics software, computer vision, and automation.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science
-- 🐍 Building automation tools with Python
-- ⚙️ Interested in Industrial Automation & Engineering Systems
-- 🤖 Exploring AI, Computer Vision & Robotics
+- 🎓 Pursuing a Master's in Computer Science
+- 🐍 Building practical tools with Python
+- ⚙️ Developing my C++ programming skills
+- 🤖 Learning ROS 2 and robot navigation
+- 👁️ Exploring computer vision with OpenCV
 - 🧠 Improving Data Structures & Algorithms
-- 🚀 Turning repetitive workflows into automated systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Automation & Data
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### Development
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### Currently Learning
+
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ---
 
-## 🚀 What I Build
+## 🚀 Project Roadmap
 
-### ⚙️ Python Automation
-Automation tools for repetitive workflows, Excel processing, reporting, and data analysis.
+### 🧭 Mobile Robot Navigation
+Build a simulated mobile robot with ROS 2 and Nav2,
+including waypoint navigation and failure recovery.
 
-### 📊 Industrial & Planning Systems
-Tools for demand analysis, shortage detection, capacity planning, and production-related data processing.
+### 👁️ Visual Inspection
+Develop a ROS 2 vision pipeline for defect classification
+using OpenCV and a deep learning model.
 
-### 🌐 Web Automation
-Browser automation and data collection using Python-based tools.
-
-### 🤖 AI & Robotics
-Learning and building projects involving AI, computer vision, robotics, and intelligent automation.
-
-### 🧩 Algorithms
-Practicing Data Structures & Algorithms using C++ and Python.
+### 🤖 Multi-Robot Task Coordination
+Create a task dispatcher for two simulated robots,
+with task queues and robot status monitoring.
 
 ---
 
 ## 📚 Currently Learning
 
-- Robotics
-- Computer Vision
-- AI Automation
-- Advanced Data Structures & Algorithms
-- Software Engineering
-- Industrial Automation
+- ROS 2 nodes, topics, services, and actions
+- Robot navigation with Nav2 and Gazebo
+- Image processing with OpenCV
+- C++ and Python software development
+- Testing and debugging on Linux
 
 ---
 
 ## 🎯 Current Goal
 
-Build strong engineering projects that combine:
+Build practical robotics projects with clear documentation,
+reproducible tests, and working demos.
 
-**Software + Automation + AI + Robotics**
+**Code + Perception + Navigation + Integration**
 
 ---
 
-> Build. Automate. Learn. Repeat.
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/chun-hau-9999ch/)
+- 💻 [GitHub](https://github.com/arche999)
+- 📧 chunhau9911@gmail.com
+
+---
+
+> Build. Test. Learn. Repeat.
