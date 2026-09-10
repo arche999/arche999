@@ -1,20 +1,25 @@
 # Hi, I'm Chun Hau 👋
 
-### Supply Chain Analytics | Python Automation | SQL | Power BI | Excel VBA
+### Supply Chain Analytics | Python Automation | SQL | Power BI
 
-I build practical automation and data solutions for manufacturing and supply chain operations.
+I build practical data and automation solutions for manufacturing and supply chain operations.
 
-Currently working in production planning while pursuing a Master's in Computer Science, with a focus on using software, data, and automation to improve real-world operational workflows.
+Currently working in production planning while pursuing a Master's in Computer Science, combining real-world manufacturing experience with programming, analytics, and automation.
+
+My focus is simple:
+
+> **Turn repetitive operational work into reliable, data-driven systems.**
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🏭 Production Planner with hands-on manufacturing experience
+- 🏭 Working in production planning within a manufacturing environment
+- 🐍 Building practical workflow automation tools with Python
+- 📊 Developing supply chain analytics with SQL, Power BI, and Excel
+- ⚙️ Automating repetitive planning, reporting, and data-processing workflows
 - 🎓 Pursuing a Master's in Computer Science
-- 🐍 Building workflow automation tools with Python
-- 📊 Developing supply chain analytics with SQL and Power BI
-- ⚙️ Automating repetitive Excel and planning processes
+- 🧠 Strengthening software engineering and data structures fundamentals
 - 🤖 Exploring AI, computer vision, and robotics
 
 ---
@@ -24,8 +29,8 @@ Currently working in production planning while pursuing a Master's in Computer S
 ### Programming & Automation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![VBA](https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
@@ -35,38 +40,91 @@ Currently working in production planning while pursuing a Master's in Computer S
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
+### Currently Exploring
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects
 
 ### 📊 DG Supply Planning Automation
 
-Automated supply planning analysis by combining planning and material transfer data.
+A Python-based planning automation system designed to consolidate demand, inventory, supply, and material-transfer data into a structured planning workflow.
 
-Features include:
+The goal is to make shortage analysis faster, more consistent, and easier to compare between planning cycles.
 
-- Inventory and demand calculation
-- Weekly projected balance
+### Key Capabilities
+
+- Weekly demand calculation
+- Projected inventory balance
 - Supply tracking
-- Shortage detection
-- Snapshot comparison
-- Pull-in / push-out analysis
-- Data quality validation
+- Material-transfer analysis
+- First-shortage date identification
+- Shortage quantity calculation
+- Planning snapshot generation
+- Snapshot-to-snapshot comparison
+- Pull-in and push-out detection
+- New and resolved shortage identification
+- Data-quality validation
+- Planning audit information
 
 **Tech:** Python · Excel · Data Processing · Supply Chain Logic
 
+---
 
-### 📦 Supply Chain Planning Tools
+### 📦 Supply Chain Automation Toolkit
 
-Built several internal tools supporting manufacturing planning workflows, including:
+A collection of automation tools developed to support day-to-day manufacturing and production-planning workflows.
 
+### Areas Covered
+
+- CTB and material availability analysis
 - Buyer due-date monitoring
-- CTB analysis
-- Routing analysis
-- Capacity reporting
 - Material shortage tracking
+- Routing analysis
+- Machine and operation analysis
+- Capacity reporting
+- Planning data consolidation
+- Excel report automation
 
-**Tech:** Python · Excel VBA · Manufacturing Data
+The objective is to reduce repetitive manual work and improve visibility across planning activities.
+
+**Tech:** Python · Excel VBA · Excel · Manufacturing Data
+
+---
+
+## 📊 What I Work With
+
+### Supply Chain
+
+- Production Planning
+- Material Planning
+- Demand & Supply Analysis
+- Shortage Analysis
+- Capacity Planning
+- CTB Analysis
+- Manufacturing Operations
+
+### Data
+
+- Data Cleaning
+- Data Transformation
+- Data Validation
+- Data Analysis
+- Reporting
+- Dashboard Development
+
+### Automation
+
+- Excel Automation
+- Python Workflow Automation
+- VBA Automation
+- Data Processing Pipelines
+- Business Logic Automation
+- Process Improvement
 
 ---
 
@@ -74,26 +132,44 @@ Built several internal tools supporting manufacturing planning workflows, includ
 
 I'm currently strengthening my skills in:
 
-- SQL for supply chain analytics
+- SQL for data analysis
 - Power BI dashboards and data modeling
-- Python data engineering and automation
+- Python automation and data engineering
 - API integration
-- Software engineering practices
-- C++ fundamentals
-
-I'm also exploring:
-
-**ROS 2 · OpenCV · Robotics · AI**
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Git and software development workflows
+- Testing and debugging
 
 ---
 
-## 🎯 Current Goal
+## 🤖 Future Exploration
 
-Build practical systems that combine:
+I'm also interested in the intersection of software, automation, and intelligent systems.
 
-**Supply Chain Knowledge + Data + Software + Automation**
+Areas I'm gradually exploring:
 
-My goal is to transform repetitive operational workflows into reliable, data-driven systems.
+**C++ · Linux · ROS 2 · OpenCV · Computer Vision · Robotics · AI**
+
+My long-term goal is to understand how software and intelligent automation can be applied beyond office workflows and into real-world industrial systems.
+
+---
+
+## 🎯 Current Focus
+
+I'm building toward the intersection of:
+
+### Supply Chain Knowledge
++
+### Data Analytics
++
+### Software
++
+### Automation
+
+I want to build systems that help transform raw operational data into useful decisions.
+
+> **From manual processes → structured data → automation → better decisions**
 
 ---
 
@@ -103,8 +179,8 @@ My goal is to transform repetitive operational workflows into reliable, data-dri
 
 💻 [GitHub](https://github.com/arche999)
 
-📧 chunhau9911@gmail.com
+📧 [chunhau9911@gmail.com](mailto:chunhau9911@gmail.com)
 
 ---
 
-> Automate repetitive work. Turn data into decisions.
+> **Automate repetitive work. Turn data into decisions.**
