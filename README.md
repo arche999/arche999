@@ -1,80 +1,110 @@
-# Hi, I'm Chun hau 👋
+# Hi, I'm Chun Hau 👋
 
-### Python | C++ | ROS 2 | Linux | OpenCV | Robotics
+### Supply Chain Analytics | Python Automation | SQL | Power BI | Excel VBA
 
-I'm a Computer Science master's student exploring robotics software, computer vision, and automation.
+I build practical automation and data solutions for manufacturing and supply chain operations.
+
+Currently working in production planning while pursuing a Master's in Computer Science, with a focus on using software, data, and automation to improve real-world operational workflows.
 
 ---
 
 ## 👨‍💻 About Me
 
+- 🏭 Production Planner with hands-on manufacturing experience
 - 🎓 Pursuing a Master's in Computer Science
-- 🐍 Building practical tools with Python
-- ⚙️ Developing my C++ programming skills
-- 🤖 Learning ROS 2 and robot navigation
-- 👁️ Exploring computer vision with OpenCV
-- 🧠 Improving Data Structures & Algorithms
+- 🐍 Building workflow automation tools with Python
+- 📊 Developing supply chain analytics with SQL and Power BI
+- ⚙️ Automating repetitive Excel and planning processes
+- 🤖 Exploring AI, computer vision, and robotics
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Tools
+### Programming & Automation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![VBA](https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### Currently Learning
+### Data & Analytics
 
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
----
-
-## 🚀 Project Roadmap
-
-### 🧭 Mobile Robot Navigation
-Build a simulated mobile robot with ROS 2 and Nav2,
-including waypoint navigation and failure recovery.
-
-### 👁️ Visual Inspection
-Develop a ROS 2 vision pipeline for defect classification
-using OpenCV and a deep learning model.
-
-### 🤖 Multi-Robot Task Coordination
-Create a task dispatcher for two simulated robots,
-with task queues and robot status monitoring.
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 📚 Currently Learning
+## 🚀 Featured Projects
 
-- ROS 2 nodes, topics, services, and actions
-- Robot navigation with Nav2 and Gazebo
-- Image processing with OpenCV
-- C++ and Python software development
-- Testing and debugging on Linux
+### 📊 DG Supply Planning Automation
+
+Automated supply planning analysis by combining planning and material transfer data.
+
+Features include:
+
+- Inventory and demand calculation
+- Weekly projected balance
+- Supply tracking
+- Shortage detection
+- Snapshot comparison
+- Pull-in / push-out analysis
+- Data quality validation
+
+**Tech:** Python · Excel · Data Processing · Supply Chain Logic
+
+
+### 📦 Supply Chain Planning Tools
+
+Built several internal tools supporting manufacturing planning workflows, including:
+
+- Buyer due-date monitoring
+- CTB analysis
+- Routing analysis
+- Capacity reporting
+- Material shortage tracking
+
+**Tech:** Python · Excel VBA · Manufacturing Data
+
+---
+
+## 📚 Currently Developing
+
+I'm currently strengthening my skills in:
+
+- SQL for supply chain analytics
+- Power BI dashboards and data modeling
+- Python data engineering and automation
+- API integration
+- Software engineering practices
+- C++ fundamentals
+
+I'm also exploring:
+
+**ROS 2 · OpenCV · Robotics · AI**
 
 ---
 
 ## 🎯 Current Goal
 
-Build practical robotics projects with clear documentation,
-reproducible tests, and working demos.
+Build practical systems that combine:
 
-**Code + Perception + Navigation + Integration**
+**Supply Chain Knowledge + Data + Software + Automation**
+
+My goal is to transform repetitive operational workflows into reliable, data-driven systems.
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/chun-hau-9999ch/)
-- 💻 [GitHub](https://github.com/arche999)
-- 📧 chunhau9911@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/chun-hau-9999ch/)
+
+💻 [GitHub](https://github.com/arche999)
+
+📧 chunhau9911@gmail.com
 
 ---
 
-> Build. Test. Learn. Repeat.
+> Automate repetitive work. Turn data into decisions.
